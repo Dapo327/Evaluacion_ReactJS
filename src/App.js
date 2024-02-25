@@ -1,7 +1,6 @@
 // src/App.js
 import './App.css';
 import Propiedades from './components/Propiedades';
-// import Filtro from './components/Filtros';
 
 
 function App() {

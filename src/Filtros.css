@@ -7,7 +7,7 @@
     background-color: #f5f5f5; 
   }
   
-  .filtro { /* Clase combinada para filtros */
+  .filtro {
     max-width: 1px;
     background-color: #fff;
     border: 1px solid #ccc;
@@ -33,12 +33,12 @@
     margin-bottom: 10px;
   }
   
-  .texto-bold-gris { /* Clase combinada para texto en negrita y gris */
+  .texto-bold-gris {
     font-weight: bold;
     color: #333;
   }
   
-  .padding-5-10 { /* Clase combinada para padding */
+  .padding-5-10 {
     padding: 5px 10px;
   }
   

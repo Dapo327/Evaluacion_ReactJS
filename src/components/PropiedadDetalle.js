@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "../Modal.css";
 
 function PropiedadDetalle({ propiedad, onClose }) {
-  // State for input values
   const [inputs, setInputs] = useState({
     fullName: "",
     email: "",

@@ -3,12 +3,11 @@
 .App-header h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 3em;
-  color: #007bff; /* Color azul */
+  color: #007bff;
   margin-bottom: 30px;
-  text-align: center; /* Centrar el texto */
+  text-align: center;
 }
 
-/* Estilos generales para toda la aplicación */
 body {
   font-family: Arial, sans-serif;
   background-color: #f8f8f8;

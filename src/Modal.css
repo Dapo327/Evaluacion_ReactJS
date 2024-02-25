@@ -73,7 +73,6 @@
   margin-bottom: 10px;
 }
 
-/* Ajustes adicionales según la imagen de referencia */
 
 .propiedad-detalle .formulario {
   display: flex;
@@ -90,7 +89,6 @@
   width: 50%;
 }
 
-/* Media queries (opcional) */
 
 @media (max-width: 768px) {
   .propiedad-detalle {

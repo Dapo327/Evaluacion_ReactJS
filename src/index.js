@@ -8,12 +8,10 @@ import reportWebVitals from './reportWebVitals';
 
 Modal.setAppElement('#root');
 
-// Or, in your modal component, as a prop
+
 <Modal
   appElement={document.getElementById('root')}
-  // other props
 >
-  {/* // modal content */}
 </Modal>
 
 
